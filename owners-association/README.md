@@ -22,7 +22,7 @@ Members List
 
 | S. No	| Name	 | Unti Number|    Email	   | Phone Number  |
 |-------| ------ | -----      | -----------  | ------        |
-| 1	    | 			 |            |              | ------        |   
+| 1	    | 			 |            |              |      |   
 2					
 3					
 4					

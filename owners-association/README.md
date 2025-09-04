@@ -2,8 +2,9 @@
 
 Leadership Team
 
-S. No	| Name	| Roles	| Responsibility	| Email	| Phone Number |
-1	| 			    |       |                 |        |              |
+| S. No	| Name	 | Roles	| Responsibility	| Email	| Phone Number |
+|-------| ------ | ------ | -------------   | ----- | -----------  |
+| 1	| 			    |       |                 |        |              |
 2					
 3					
 4					

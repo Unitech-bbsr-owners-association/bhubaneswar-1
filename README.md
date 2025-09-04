@@ -2,6 +2,6 @@
 
 To be Updated Latter
 
-![Bhubaneswar 1 Mall](https://en.wikipedia.org/wiki/Bhubaneswar_1#/media/File:Bhubaneswar_1.jpg)
+![Bhubaneswar 1 Mall](https://upload.wikimedia.org/wikipedia/commons/1/10/Bhubaneswar_1.jpg)
 
 https://en.wikipedia.org/wiki/Bhubaneswar_1
